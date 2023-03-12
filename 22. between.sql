@@ -1,0 +1,5 @@
+SELECT * FROM student
+WHERE enrollmentYear BETWEEN 2021 AND 2022;
+
+SELECT * FROM student 
+WHERE dateOfBirth BETWEEN "2004-01-01" AND "2004-03-31";
